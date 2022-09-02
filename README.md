@@ -14,6 +14,7 @@ In analyzing the data, we found that theater campaigns launched in May had the h
 
 ### Analysis of Outcomes Based on Goals
 After making a line chart, we found that plays with the fundraising goals of 25000-29999 and 45000-49999 had the most successful outcomes. Failed plays had an opposite outcome compared to percentage of successful plays based on funding goal. There were no canceled plays. This shows that Louise's play Fever will likely not be canceled and that it may have a high success rate as the plays category is mostly successful in reaching pledge goals. 
+"C:\Users\colli\OneDrive\Desktop\Resources\Outcomes_vs_Goals.png"
 
 ### Challenges and Difficulties Encountered
 Not many challenges were encountered while analyzing this data set, one challenge was understanding the meaning of projections made by charts and pivot tables as we are working with a large data set which can make it difficult to apply it to Louise's specific situation. Once we understood which categories are most important to weigh in, the analysis became simpler and more clear. 
