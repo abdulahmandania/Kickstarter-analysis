@@ -12,10 +12,12 @@ To perform the analysis, I began by organizing the data set as it was quite larg
 
 ### Analysis of Outcomes Based on Launch Date
 In analyzing the data, we found that theater campaigns launched in May had the highest success rates,while theater productions launched in December had the least successful outcomes. There were very little theater canceled theater productions. 
+
 ![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/111723067/188060769-db4e7b31-7b6e-4cb4-8978-6c19e968a195.png)
 
 ### Analysis of Outcomes Based on Goals
 After making a line chart, we found that plays with the fundraising goals of 25000-29999 and 45000-49999 had the most successful outcomes. Failed plays had an opposite outcome compared to percentage of successful plays based on funding goal. There were no canceled plays. This shows that Louise's play Fever will likely not be canceled and that it may have a high success rate as the plays category is mostly successful in reaching pledge goals. 
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111723067/188060691-fcbc9a92-e959-4db4-bc88-82bf8037fdb5.png)
 
 ### Challenges and Difficulties Encountered
