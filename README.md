@@ -1,4 +1,5 @@
 # kickstarter-analysis
+![image](https://user-images.githubusercontent.com/111723067/188061067-0aad0ad5-e508-4368-9e96-7b4c716e61c2.png)
 
 ## Overview of Project
 Louise, a playwright, is planning a crowdfunding campaign to fund her play Fever. Louise has an estimate of $10,000 for her play's budget, this is her first fundraising campaign and she is requesting some assitance! In analyzing the provided data further, I will assist Louise in visualizing all the different factors that affect a campaign's level of success.
@@ -11,10 +12,11 @@ To perform the analysis, I began by organizing the data set as it was quite larg
 
 ### Analysis of Outcomes Based on Launch Date
 In analyzing the data, we found that theater campaigns launched in May had the highest success rates,while theater productions launched in December had the least successful outcomes. There were very little theater canceled theater productions. 
+![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/111723067/188060769-db4e7b31-7b6e-4cb4-8978-6c19e968a195.png)
 
 ### Analysis of Outcomes Based on Goals
 After making a line chart, we found that plays with the fundraising goals of 25000-29999 and 45000-49999 had the most successful outcomes. Failed plays had an opposite outcome compared to percentage of successful plays based on funding goal. There were no canceled plays. This shows that Louise's play Fever will likely not be canceled and that it may have a high success rate as the plays category is mostly successful in reaching pledge goals. 
-"C:\Users\colli\OneDrive\Desktop\Resources\Outcomes_vs_Goals.png"
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111723067/188060691-fcbc9a92-e959-4db4-bc88-82bf8037fdb5.png)
 
 ### Challenges and Difficulties Encountered
 Not many challenges were encountered while analyzing this data set, one challenge was understanding the meaning of projections made by charts and pivot tables as we are working with a large data set which can make it difficult to apply it to Louise's specific situation. Once we understood which categories are most important to weigh in, the analysis became simpler and more clear. 
